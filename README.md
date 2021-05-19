@@ -1,4 +1,4 @@
-## Go Ethereum
+## TV
 
 Official Golang implementation of the Ethereum protocol.
 
@@ -31,7 +31,7 @@ make all
 
 ## Executables
 
-The go-ethereum project comes with several wrappers/executables found in the `cmd`
+The tv project comes with several wrappers/executables found in the `cmd`
 directory.
 
 |    Command    | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
